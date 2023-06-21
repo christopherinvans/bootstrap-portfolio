@@ -8127,15 +8127,19 @@ textarea.form-control-lg {
 
 .bg-primary {
  background-image: url("../assets/img/misty-trees.jpg");
- background-color: #198754;
+ background-color: #013220;
  background-position: center;
  background-size: cover;
 }
 
 .bg-about {
   background-image: url("../assets/img/misty-trees.jpg");
- background-color: #198754;
+ background-color: #013220;
  background-position: center bottom;
+}
+
+.bg-dark-green {
+  background-color: #013220;
 }
 
 .bg-secondary {
