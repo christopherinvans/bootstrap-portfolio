@@ -8126,8 +8126,16 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  --bs-bg-opacity: 1;
-  background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important;
+ background-image: url("../assets/img/misty-trees.jpg");
+ background-color: #198754;
+ background-position: center;
+ background-size: cover;
+}
+
+.bg-about {
+  background-image: url("../assets/img/misty-trees.jpg");
+ background-color: #198754;
+ background-position: center bottom;
 }
 
 .bg-secondary {
